@@ -1,6 +1,6 @@
 {
   "name": "aws-greengrass-ipc-sdk-js",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "AWS Greengrass IPC SDK wrapper",
   "main": "index.js",
   "keywords": [
@@ -10,6 +10,14 @@
   "author": "Fabio Gollinucci <fbgolly@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "aws-greengrass-common-js": "^1.0.0"
-  }
+    "aws-greengrass-common-js": "^1.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/daaru00/aws-greengrass-core-sdk-wrapper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/daaru00/aws-greengrass-core-sdk-wrapper/issues"
+  },
+  "homepage": "https://github.com/daaru00/aws-greengrass-core-sdk-wrapper"
 }

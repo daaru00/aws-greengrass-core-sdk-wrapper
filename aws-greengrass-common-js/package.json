@@ -1,9 +1,17 @@
 {
   "name": "aws-greengrass-common-js",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "AWS Greengrass Common JS wrapper",
   "main": "index.js",
   "keywords": ["aws", "greengrass"],
   "author": "Fabio Gollinucci <fbgolly@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/daaru00/aws-greengrass-core-sdk-wrapper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/daaru00/aws-greengrass-core-sdk-wrapper/issues"
+  },
+  "homepage": "https://github.com/daaru00/aws-greengrass-core-sdk-wrapper"
 }
