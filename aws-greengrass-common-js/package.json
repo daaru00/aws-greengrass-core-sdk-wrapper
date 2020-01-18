@@ -1,0 +1,9 @@
+{
+  "name": "aws-greengrass-common-js",
+  "version": "1.0.0",
+  "description": "AWS Greengrass Common JS wrapper",
+  "main": "index.js",
+  "keywords": ["aws", "greengrass"],
+  "author": "Fabio Gollinucci <fbgolly@gmail.com>",
+  "license": "MIT"
+}

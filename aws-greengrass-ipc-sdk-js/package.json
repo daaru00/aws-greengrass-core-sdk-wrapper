@@ -1,0 +1,15 @@
+{
+  "name": "aws-greengrass-ipc-sdk-js",
+  "version": "1.1.0",
+  "description": "AWS Greengrass IPC SDK wrapper",
+  "main": "index.js",
+  "keywords": [
+    "aws",
+    "greengrass"
+  ],
+  "author": "Fabio Gollinucci <fbgolly@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "aws-greengrass-common-js": "^1.0.0"
+  }
+}
